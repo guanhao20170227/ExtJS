@@ -1,0 +1,68 @@
+
+
+ExtJS是一个Ajax框架，是一个用javascript写的，用于在客户端创建丰富多彩的web应用程序界面。ExtJS可以用来开发RIA也即富客户端的AJAX应用。因此，可以把ExtJS用在.Net、Java、Php等各种开发语言开发的应用中。
+
+
+详细教程： https://www.w3cschool.cn/extjs/
+		   http://www.cnblogs.com/bacteroid/archive/2012/09/27/2705405.html
+
+
+1， http://www.360doc.com/content/15/0514/13/7662927_470414013.shtml
+
+2，http://pzmayf.iteye.com/blog/414349
+
+我也是学习EXTJS的过来人,EXTJS1.0的出来我就已经开始关注了,至今我发现有好多新手对于EXT无从下手,下面我针对这种情况给大家一些建议 
+	1.js大家一定要懂,包括它的基本语法,this的引用,类的写法,常用的API.我面试好多人问他们JS学的怎么样,在公司经常用吗?他们的答案基本上一致,只是做一些简单的验证,试问这样能学好JS吗? 
+	2.熟悉json,当今在JS的世界里,当然也包括传说中的AJAX都离不开它.因为它的语法很直接,没有XML那么复杂.新手们要对JSON的各种写法有所变通,JSON的不同写法表示的意思也不同. 
+	3.dom编程,其实它就像我们JAVA中的JAVAAPI,道理一样.我这里讲的DOM是指浏览器中的DOM,因为在JS中要经常引用到DOM,所以对DOM的了解这是是必须的 
+	4.css,这个也是需要了解的,因为在有些情况,我们需要它做一些界面效果. 
+	如果说熟悉上面几点,那么你学EXTJS就不怎么觉的难了,当你精通以上几点的话,这时你就适合看EXTJS的源码了. 
+
+EXTJS入门 
+1.extjs自带的例子是每个新手必学的,当你把它的例子读懂了也就意味着你已经对它比较了解了. 
+它的例子都是放在EXTJS的安装目录examples下,源码在source中. 
+有些新手会问,为什么有些example跑不起来呢,这个很简单,因为有些交互是AJAX的,所以些example必须放到服务端才可以运行.如(tomcat) 
+2.extjs的api这个也是相当重要的,没有一个人敢说他现在对EXTJS中的API全都清楚,一般都是现学现用.所有有什么不懂的,可以先看看API.但有些情况根据项目需要实现某种功能,但要不知道EXT是否有此功能,这种情况我们可以采用"猜",因为我经常是这样. 
+api的位置在EXT安装目录下的docs 
+
+好了先说这么多吧,今天也是一时心血来潮想写点文章,写的不好还请大家见谅. 
+等以后有时间我再如何实践EXTS,看过的朋友可否给点评论
+
+3，http://www.cnblogs.com/bacteroid/archive/2012/09/27/2705405.html
+
+
+
+资料查找：
+	知乎网
+	博客网
+     http://www.jb51.net/list/list_217_1.htm
+论坛：
+   
+
+小例子：
+
+http://www.zuidaima.com/share/kextjs-p1-s1.htm
+http://www.cnblogs.com/gaoweipeng/archive/2009/11/11/1599969.html
+
+
+根据 例子 入门 ：
+
+http://www.cnblogs.com/iamlilinfeng/archive/2012/12/31/2840663.html
+
+
+
+别人总结：
+
+http://www.cnblogs.com/beginor/archive/2008/12/14/1354922.html
+
+API 查看的方式：
+http://www.cnblogs.com/youring2/archive/2013/03/05/2944004.html
+
+源码分析：
+
+http://blog.csdn.net/jerrysbest/article/details/6639468
+
+与 SSH 后台整合：
+
+http://www.cnblogs.com/hoojo/archive/2011/01/07/1929577.html
+
